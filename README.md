@@ -33,7 +33,8 @@ This fan detects its own blade-generated noise using a microphone, identifies th
 │   ├─ 
 │   └─ 
 ├─ docs/                ← specs, FEA results, BOM
-│   ├─ 
+│   ├─ DevLog.md
+│   ├─ ProjectSpec.md
 ├─ firmware/            ← Teensy Arduino sketches
 │   └─
 ├─ python/              ← Data analysis notebooks

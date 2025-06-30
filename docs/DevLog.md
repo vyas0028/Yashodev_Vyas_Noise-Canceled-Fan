@@ -19,4 +19,27 @@ LINKS
 - Order parts (mic, speaker, teensy etc), CAD practice, write project specifications. 
 
 ## 06-17-2025 (Tues)
+**Done**
+-Ordered parts, 
 
+**Learned**
+- Electronics required (amplifier module, barrel jack adapter, etc)
+
+**Next**
+- Write spec, BOM, CAD practice
+
+## 06-18-2025 (Thur)
+**Done**
+-Got hung up on internship work. Watched one solidworks recap video. 
+
+**Next**
+- CAD practice, first models. 
+
+## 06-1-2025 (Fri)
+**Done**
+-
+
+**Learned**
+-
+**Next**
+- 

@@ -28,9 +28,9 @@ This fan detects its own blade-generated noise using a microphone, identifies th
 
 
 ```text
-├─ cad/                 ← SolidWorks parts & assemblies
-│   ├─ 
-│   ├─ 
+├─ CAD/             ← SolidWorks parts & assemblies
+│   ├─Practice_CAD
+│   ├─ Project_CAD
 │   └─ 
 ├─ docs/                ← specs, FEA results, BOM
 │   ├─ DevLog.md

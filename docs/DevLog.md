@@ -69,6 +69,7 @@ Welcome to the Noise-Canceling Fan DevLog! This is a running summary of daily wo
   - ![Lampshade screenshot](https://github.com/vyas0028/Yashodev_Vyas_Noise-Canceled-Fan/blob/32ec78ca6e4a8abb1198d366776dd70d3a60683d/Media/Practice_Lampshade.png) 
 - Created circular baseplate to practice HoleWizard
   - [Practice_Plate.SLDPRT](../CAD/Practice_CAD/Practice_Plate.SLDPRT)
+  - ![Practice Plate screenshot](https://github.com/vyas0028/Yashodev_Vyas_Noise-Canceled-Fan/blob/main/Media/Practice_Plate.png?raw=true)
 
 **Learned**  
 - More thorough review of SolidWorks basics and learned about HoleWizard.
@@ -81,10 +82,10 @@ Welcome to the Noise-Canceling Fan DevLog! This is a running summary of daily wo
 ## 06-23-2025 (Mon)
 
 **Done**  
-- Revisited design. Original model with speaker on front of base was deemed nonfunctional. Learned that noise canceling needs good alignment of fan noise to noise canceling signal from speaker. Redesigned to include speaker pointing directly into cylindrical fan shroud. Brainstormed horizontal plate that separates direct line of sight from speaker to mic inside shroud chamber.
+- Revisited design. Original model with speaker on front of base was deemed nonfunctional. Learned that noise canceling needs good alignment of fan noise to noise canceling output from speaker. Redesigned to include speaker pointing directly into cylindrical fan shroud. Brainstormed horizontal plate that separates direct line of sight from speaker to mic inside shroud chamber.
 
 **Learned**  
-- Design requires **iteration**—every single idea/design will have issues that come up and need to be addressed.
+- Design requires **iteration**. Every single idea/design will have issues that come up and need to be addressed.
 
 **Next**  
 - Begin CAD for base, support tube, and shroud
@@ -95,6 +96,7 @@ Welcome to the Noise-Canceling Fan DevLog! This is a running summary of daily wo
 
 **Done**  
 - Began base: 160 × 160 × 25 mm with a 5.5 mm thick lip running along the inner face of box for lid to sit flush.
+  - ![box prelim outline]( https://github.com/vyas0028/Yashodev_Vyas_Noise-Canceled-Fan/blob/main/Media/Box_preliminary.png?raw=true)
 
 **Learned**  
 - Offset function in SolidWorks. How to insert planes.
@@ -107,7 +109,7 @@ Welcome to the Noise-Canceling Fan DevLog! This is a running summary of daily wo
 ## 06-27-2025 (Fri)
 
 **Done**  
-- Completed design for base. Learned how to insert plane at specific height.
+- Completed design for base. Learned how to insert plane at specific height. 
 
 **Learned**  
 - Design requires **iteration**—every single idea/design will have issues that come up and need to be addressed.

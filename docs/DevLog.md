@@ -4,27 +4,44 @@ LINKS
 [Spec](Spec.md)   
 **
 
+<<<<<<< HEAD
 ## Welcome to the Noise-Canceling Fan DevLog! This is a running summary of daily work on this project. 
+=======
+## Welcome to the Noise Canceling Fan DevLog! This is a running summary of daily work on this project. 
+>>>>>>> parent of eeab3cb (-)
 
 
 ## 06-16-2025 (Mon)
 **Done**
 - Created Repo and README
+<<<<<<< HEAD
 - Brainstormed high-level design: 3D printed hollow rectangular base with four supports, speaker on the front face,
+=======
+- Brainstormed high level design: 3D printed hollow rectangular base with four supports, speaker on the front face,
+>>>>>>> parent of eeab3cb (-)
  microphone hole on the top face, fan housed in horizontal cylinder supported by cylindrical column from base. Electrical housed under the base. 
 
 **Learned**
 - GitHub repo organizations for engineering projects. 
 
 **Next**
+<<<<<<< HEAD
 - Order parts (mic, speaker, teensy, etc), CAD practice, write project specifications. 
+=======
+- Order parts (mic, speaker, teensy etc), CAD practice, write project specifications. 
+>>>>>>> parent of eeab3cb (-)
 
 ------------
 
 ## 06-17-2025 (Tues)
+<<<<<<< HEAD
 
 **Done**
  - Ordered parts (microcontroller, fan, electronics)
+=======
+**Done**
+-Ordered parts (microcontroller, fan, electronics)
+>>>>>>> parent of eeab3cb (-)
 
 **Learned**
 - Electronics required (amplifier module, barrel jack adapter, etc)
@@ -36,7 +53,11 @@ LINKS
 
 ## 06-19-2025 (Thur)
 **Done**
+<<<<<<< HEAD
 - Got hung up on internship work. Watched a SolidWorks recap video. 
+=======
+-Got hung up on internship work. Watched one solidworks recap video. 
+>>>>>>> parent of eeab3cb (-)
 
 **Next**
 - CAD practice, first models. 
@@ -45,10 +66,17 @@ LINKS
 
 ## 06-20-2025 (Fri)
 **Done**
+<<<<<<< HEAD
 - Completed Solidworks recap video
 
 **Learned**
 - Reviewed Solidworks basics (sketching, boss/revolve, shell, filet)
+=======
+-Completed Solidworks recap video
+
+**Learned**
+-Reviewed Solidworks basics (sketching, boss/revolve, shell, filet)
+>>>>>>> parent of eeab3cb (-)
 **Next**
 - Begin practice parts
 
@@ -56,6 +84,7 @@ LINKS
 
 ## 06-22- 2025 (Sun)
 **Done**
+<<<<<<< HEAD
 - Created hoz. Lampshade example from Solidworks part modeling tutorial utilizing sketch, extrude, extrude-cut, shell, and fillet. 
     - ![Practice_Lampshade_Image](https://github.com/vyas0028/Yashodev_Vyas_Noise-Canceled-Fan/blob/main/Media/Lampshade.png?raw=true)
     - [Lampshade.SLDPRT](../CAD/Practice_CAD/Practice_Lampshade.SLDPRT)
@@ -64,6 +93,20 @@ LINKS
 **Learned**
 -More thorough review of SolidWorks basics and learned about HoleWizard. 
 
+=======
+-Created hoz. Lampshade example from official Solidworks part modeling tutorial  utilizing sketch, extrude, extrude-cut, shell, and filet. 
+    [SLDWKS FILE](../CAD/Practice_CAD/Practice_Lampshade.SLDPRT), \
+    
+<p align="center">
+  <img src="../Media/Lampshade.png" alt="Lampshade CAD export" width="600" />
+</p>
+
+
+-Created circular baseplate to practice HoleWizard: [Base Plate]
+
+**Learned**
+-More thorough review of SolidWorks basics and learned about HoleWizard. 
+>>>>>>> parent of eeab3cb (-)
 **Next**
 - Continue practice parts
 
@@ -165,4 +208,8 @@ of fan noise to noise canceling signal from speaker. Redesigned to include speak
 -Revisiting previously completed parts is important. Design and dimensions may be incorrect and other parts may cause dimension/tolerance changes.
 
 **Next**
+<<<<<<< HEAD
 - Continue shroud development and figure out mate with vertical tube. 
+=======
+- Continue shroud development and figure out mate with vertical tube. 
+>>>>>>> parent of eeab3cb (-)

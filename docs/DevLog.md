@@ -4,26 +4,27 @@ LINKS
 [Spec](Spec.md)   
 **
 
-## Welcome to the Noise Canceling Fan DevLog! This is a running summary of daily work on this project. 
+## Welcome to the Noise-Canceling Fan DevLog! This is a running summary of daily work on this project. 
 
 
 ## 06-16-2025 (Mon)
 **Done**
 - Created Repo and README
-- Brainstormed high level design: 3D printed hollow rectangular base with four supports, speaker on the front face,
+- Brainstormed high-level design: 3D printed hollow rectangular base with four supports, speaker on the front face,
  microphone hole on the top face, fan housed in horizontal cylinder supported by cylindrical column from base. Electrical housed under the base. 
 
 **Learned**
 - GitHub repo organizations for engineering projects. 
 
 **Next**
-- Order parts (mic, speaker, teensy etc), CAD practice, write project specifications. 
+- Order parts (mic, speaker, teensy, etc), CAD practice, write project specifications. 
 
 ------------
 
 ## 06-17-2025 (Tues)
+
 **Done**
--Ordered parts (microcontroller, fan, electronics)
+ - Ordered parts (microcontroller, fan, electronics)
 
 **Learned**
 - Electronics required (amplifier module, barrel jack adapter, etc)
@@ -35,7 +36,7 @@ LINKS
 
 ## 06-19-2025 (Thur)
 **Done**
--Got hung up on internship work. Watched one solidworks recap video. 
+- Got hung up on internship work. Watched a SolidWorks recap video. 
 
 **Next**
 - CAD practice, first models. 
@@ -44,10 +45,10 @@ LINKS
 
 ## 06-20-2025 (Fri)
 **Done**
--Completed Solidworks recap video
+- Completed Solidworks recap video
 
 **Learned**
--Reviewed Solidworks basics (sketching, boss/revolve, shell, filet)
+- Reviewed Solidworks basics (sketching, boss/revolve, shell, filet)
 **Next**
 - Begin practice parts
 
@@ -55,18 +56,13 @@ LINKS
 
 ## 06-22- 2025 (Sun)
 **Done**
--Created hoz. Lampshade example from official Solidworks part modeling tutorial  utilizing sketch, extrude, extrude-cut, shell, and filet. 
-    [SLDWKS FILE](../CAD/Practice_CAD/Practice_Lampshade.SLDPRT), \
-    
-<p align="center">
-  <img src="../Media/Lampshade.png" alt="Lampshade CAD export" width="600" />
-</p>
-
-
+- Created hoz. Lampshade example from official Solidworks part modeling tutorial utilizing sketch, extrude, extrude-cut, shell, and fillet. 
+    - [Lampshade.SLDPRT](../CAD/Practice_CAD/Practice_Lampshade.SLDPRT), \
 -Created circular baseplate to practice HoleWizard: [Base Plate]
 
 **Learned**
 -More thorough review of SolidWorks basics and learned about HoleWizard. 
+
 **Next**
 - Continue practice parts
 

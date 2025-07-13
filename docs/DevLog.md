@@ -99,7 +99,7 @@ Welcome to the Noise-Canceling Fan DevLog! This is a running summary of daily wo
   - ![box prelim outline]( https://github.com/vyas0028/Yashodev_Vyas_Noise-Canceled-Fan/blob/main/Media/Box_preliminary.png?raw=true)
 
 **Learned**  
-- Offset function in SolidWorks. How to insert planes.
+- How to insert planes.
 
 **Next**  
 - Continue CAD for base, begin support tube, cylindrical shroud, round sleeve for fan.
@@ -109,10 +109,11 @@ Welcome to the Noise-Canceling Fan DevLog! This is a running summary of daily wo
 ## 06-27-2025 (Fri)
 
 **Done**  
-- Completed design for base. Learned how to insert plane at specific height. 
+- Completed design for base. Used cut extrude from various planes within the box to create a lip on inside edge that will allow lid to sit flush with top.
+  - ![box 6/27](https://github.com/vyas0028/Yashodev_Vyas_Noise-Canceled-Fan/blob/main/Media/Box_Final.png?raw=true)
 
 **Learned**  
-- Design requires **iteration**—every single idea/design will have issues that come up and need to be addressed.
+- Learned how to insert plane at specific height. 
 
 **Next**  
 - Begin CAD for lid, support tube, and shroud

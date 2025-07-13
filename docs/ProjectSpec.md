@@ -17,7 +17,7 @@ A desktop fan assembly that actively cancels its own noise by collecting noise s
 ## 2. Functional Requirements
 - Detect principal fan noise frequencies in the 200–1000 Hz range
 - Perform real-time FFT and generate inverted wave
-- ≥ 6 dB SPL reduction at a distance of 0.5 m
+- ≥ 6 dB SPL reduction at a distance of 0.5 m from the fan.
 - Maintain ≥ 50 CFM airflow from fan
 
 ---

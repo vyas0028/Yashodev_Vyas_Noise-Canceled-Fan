@@ -109,7 +109,7 @@ Welcome to the Noise-Canceling Fan DevLog! This is a running summary of daily wo
 ## 06-27-2025 (Fri)
 
 **Done**  
-- Completed design for base. Used cut extrude from various planes within the box to create a lip on inside edge that will allow lid to sit flush with top.
+- Completed design for base box. Used cut extrude from various planes within the box to create a lip on inside edge that will allow lid to sit flush with top.
   - ![box 6/27](https://github.com/vyas0028/Yashodev_Vyas_Noise-Canceled-Fan/blob/main/Media/Box_Final.png?raw=true)
 
 **Learned**  
@@ -123,8 +123,9 @@ Welcome to the Noise-Canceling Fan DevLog! This is a running summary of daily wo
 ## 06-30-2025 (Mon)
 
 **Done**  
-- Completed design for lid (157.5 × 157.5 × 6.5 mm). Thickness allows flange from tube to sit into lid.  
-- Completed design for support tube: 70 × 70 mm cylinder with 3 mm wall thickness. Added 82 mm diameter, 2.5 mm thick flange around bottom of tube. Added 82 mm diameter, 2.5 mm deep recess into lid to allow tube to fit. Added four M4 tapped holes on a 76 mm diameter circle to flange, and clearance holes for brass inserts.  
+- Completed design for lid (157.5 × 157.5 × 6.5 mm). Thickness allows flange from tube to sit into lid comfortably.
+- Completed design for support tube: 70 × 70 mm cylinder with 3 mm wall thickness. Added 82 mm diameter, 2.5 mm thick flange around bottom of tube. Added 82 mm diameter, 2.5 mm deep recess into lid to allow tube to fit. Added four M4 tapped holes on a 76 mm diameter circle to flange, and clearance holes for brass inserts.
+- 
 
 **Learned**  
 - Refreshed skills with basic extrude. Began GD&T, designing one part to fit into another.  
@@ -142,6 +143,7 @@ Welcome to the Noise-Canceling Fan DevLog! This is a running summary of daily wo
   - OD: 208 mm, thickness: 4 mm.  
   - Hole pattern: 4 × 4.45 mm holes on 124 × 124 mm square. Front plate counterbored (Ø 8 mm) for flush screws. Back plate holes Ø 5.7 mm × 3.5 mm deep with 0.5 mm skin for brass inserts.  
   - Central cutout: Ø 140 mm, filleted inner edges, chamfered outer edges (0.5 mm × 45°).
+  - 
 
 **Learned**  
 - How to apply real-world dimensions (fan specs) to a CAD problem.

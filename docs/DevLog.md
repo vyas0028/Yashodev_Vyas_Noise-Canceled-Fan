@@ -56,8 +56,11 @@ LINKS
 ## 06-22- 2025 (Sun)
 **Done**
 -Created hoz. Lampshade example from official Solidworks part modeling tutorial  utilizing sketch, extrude, extrude-cut, shell, and filet. 
-    [SLDWKS FILE](../CAD/Practice_CAD/Practice_Lampshade.SLDPRT), 
-    ![PNG](../Media/Lampshade.png)
+    [SLDWKS FILE](../CAD/Practice_CAD/Practice_Lampshade.SLDPRT), \
+    
+<p align="center">
+  <img src="../Media/Lampshade.png" alt="Lampshade CAD export" width="600" />
+</p>
 
 
 -Created circular baseplate to practice HoleWizard: [Base Plate]

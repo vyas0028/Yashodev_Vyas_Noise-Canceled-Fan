@@ -237,6 +237,7 @@ Welcome to the Noise-Canceling Fan DevLog! This is a running summary of daily wo
 **Done**  
 - Finalized shroud design. Added 15 mm diameter circular recess in bottom of shroud for microphone array. Extrude cut hole for microphone wiring that goes into tube and down into base. Decided on two piece shroud and tube. Shroud has extrusion on the bottom that fits into the tube and will be glued.
 - Compiled tube and shroud into an assembly. Changed extrusion of tube to "up to next" to get it flush with the shroud.
+- Began print of base and lid overnight on Stratasys F370 printer, ASA material. 
 - ![Final Assembly](https://github.com/vyas0028/Yashodev_Vyas_Noise-Canceled-Fan/blob/main/Media/Final_Assembly.png?raw=true)
 - ![Shroud Side View](https://github.com/vyas0028/Yashodev_Vyas_Noise-Canceled-Fan/blob/main/Media/Shroud_Side_View.png?raw=true)
 - ![Tube + shroud mate](https://github.com/vyas0028/Yashodev_Vyas_Noise-Canceled-Fan/blob/main/Media/Tube+Shroud_Mate.png?raw=true)
@@ -246,5 +247,45 @@ Welcome to the Noise-Canceling Fan DevLog! This is a running summary of daily wo
 - Consulted coworker on one piece vs two piece shroud + tube. One piece would have wasted a lot of support material.
   
 **Next**  
-- Begin prints! .
+- Continue Prints! .
+
+## 07-11-2025 (Thurs)
+
+**Done**  
+- Retrieved print of lid. 
+
+**Learned**  
+- Extrude "up to next" is very useful for getting features flush with one another.
+- Consulted coworker on one piece vs two piece shroud + tube. One piece would have wasted a lot of support material.
+  
+**Next**  
+- Continue Prints! .
+
+## 07-11-2025 (Thurs)
+
+**Done**  
+- Finalized shroud design. Added 15 mm diameter circular recess in bottom of shroud for microphone array. Extrude cut hole for microphone wiring that goes into tube and down into base. Decided on two piece shroud and tube. Shroud has extrusion on the bottom that fits into the tube and will be glued.
+- Compiled tube and shroud into an assembly. Changed extrusion of tube to "up to next" to get it flush with the shroud.
+- Began print of base and lid overnight on Stratasys F370 printer, ASA material. 
+- ![Final Assembly](https://github.com/vyas0028/Yashodev_Vyas_Noise-Canceled-Fan/blob/main/Media/Final_Assembly.png?raw=true)
+- ![Shroud Side View](https://github.com/vyas0028/Yashodev_Vyas_Noise-Canceled-Fan/blob/main/Media/Shroud_Side_View.png?raw=true)
+- ![Tube + shroud mate](https://github.com/vyas0028/Yashodev_Vyas_Noise-Canceled-Fan/blob/main/Media/Tube+Shroud_Mate.png?raw=true)
+
+**Learned**  
+- Extrude "up to next" is very useful for getting features flush with one another.
+- Consulted coworker on one piece vs two piece shroud + tube. One piece would have wasted a lot of support material.
+  
+**Next**  
+- Continue Prints! .
+
+## 07-14-2025 (Thurs)
+
+**Done**  
+- . 
+
+**Learned**  
+- .
+  
+**Next**  
+- 
 ```

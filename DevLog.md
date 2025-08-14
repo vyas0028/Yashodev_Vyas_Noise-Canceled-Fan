@@ -237,7 +237,6 @@ Welcome to the Noise-Canceling Fan DevLog! This is a running summary of daily wo
 **Done**  
 - Finalized shroud design. Added 15 mm diameter circular recess in bottom of shroud for microphone array. Extrude cut hole for microphone wiring that goes into tube and down into base. Decided on two piece shroud and tube. Shroud has extrusion on the bottom that fits into the tube and will be glued.
 - Compiled tube and shroud into an assembly. Changed extrusion of tube to "up to next" to get it flush with the shroud.
-- Began print of base and lid overnight on Stratasys F370 printer, ASA material. 
 - ![Final Assembly](https://github.com/vyas0028/Yashodev_Vyas_Noise-Canceled-Fan/blob/main/Media/Final_Assembly.png?raw=true)
 - ![Shroud Side View](https://github.com/vyas0028/Yashodev_Vyas_Noise-Canceled-Fan/blob/main/Media/Shroud_Side_View.png?raw=true)
 - ![Tube + shroud mate](https://github.com/vyas0028/Yashodev_Vyas_Noise-Canceled-Fan/blob/main/Media/Tube+Shroud_Mate.png?raw=true)
@@ -249,43 +248,102 @@ Welcome to the Noise-Canceling Fan DevLog! This is a running summary of daily wo
 **Next**  
 - Continue Prints! .
 
-## 07-11-2025 (Thurs)
+
+## 07-14-2025-07/21/2025 (Thurs)
 
 **Done**  
-- Retrieved print of lid. 
+- On vacation, updated resume, documentation. 
 
-**Learned**  
-- Extrude "up to next" is very useful for getting features flush with one another.
-- Consulted coworker on one piece vs two piece shroud + tube. One piece would have wasted a lot of support material.
-  
-**Next**  
-- Continue Prints! .
-
-## 07-11-2025 (Thurs)
+## 07-22-2025 (Thurs)
 
 **Done**  
-- Finalized shroud design. Added 15 mm diameter circular recess in bottom of shroud for microphone array. Extrude cut hole for microphone wiring that goes into tube and down into base. Decided on two piece shroud and tube. Shroud has extrusion on the bottom that fits into the tube and will be glued.
-- Compiled tube and shroud into an assembly. Changed extrusion of tube to "up to next" to get it flush with the shroud.
-- Began print of base and lid overnight on Stratasys F370 printer, ASA material. 
-- ![Final Assembly](https://github.com/vyas0028/Yashodev_Vyas_Noise-Canceled-Fan/blob/main/Media/Final_Assembly.png?raw=true)
-- ![Shroud Side View](https://github.com/vyas0028/Yashodev_Vyas_Noise-Canceled-Fan/blob/main/Media/Shroud_Side_View.png?raw=true)
-- ![Tube + shroud mate](https://github.com/vyas0028/Yashodev_Vyas_Noise-Canceled-Fan/blob/main/Media/Tube+Shroud_Mate.png?raw=true)
+- Retrieved prints and physically fit together lid and base. Lid was slighly smaller than base lip area, so purchased set screw from Menards and heat set insert into base.
+- Began print of shroud and initial tube.
 
 **Learned**  
-- Extrude "up to next" is very useful for getting features flush with one another.
-- Consulted coworker on one piece vs two piece shroud + tube. One piece would have wasted a lot of support material.
-  
-**Next**  
-- Continue Prints! .
-
-## 07-14-2025 (Thurs)
-
-**Done**  
-- . 
-
-**Learned**  
-- .
-  
-**Next**  
+- Asked R&D Technician at my internship about tolerance and sizing issue:
+  - Even though GD&T is conducted on CAD and tolerances are set, machined or printed product often deviates. Thus you need to check machining/printing quality before starting (create 5x5x5 mm cube with printer and measure actual size, then adjust CAD).
 - 
+  
+**Next**  
+- Retrieve prints of shroud and tube, and assemble.
+
+## 07-22-2025 (Fri)
+
+**Done**  
+- Retrieved print of shroud and tube. Added 6-32 screws and inserts to the mate between tube flange and lid recess. 
+- Shroud print had stray filament, so I sanded down rough areas.
+- Drilled hole through lid and tube bottom to allow for mic wires to pass through.
+- Shroud fit well into tube, but the shroud mouth was turned rather than straight on due to fit with the tube profile. Redesigned tube in SolidWorks to ensure shroud mouth points straight.
+- ![tube+lid](https://github.com/vyas0028/Yashodev_Vyas_Noise-Canceled-Fan/blob/main/Media/tube+lid.jpg?raw=true)
+- ![Lid_bottom](https://github.com/vyas0028/Yashodev_Vyas_Noise-Canceled-Fan/blob/main/Media/lid_bottom.jpg?raw=true)
+- ![Lid_bottom_side](https://github.com/vyas0028/Yashodev_Vyas_Noise-Canceled-Fan/blob/main/Media/Lid_bottom_side.jpg?raw=true)
+
+
+**Learned**  
+- Asked R&D Technician at my internship about tolerance and sizing issue:
+  - Even though GD&T is conducted on CAD and tolerances are set, machined or printed product often deviates. Thus you need to check machining/printing quality before starting (create 5x5x5 mm cube with printer and measure actual size, then adjust CAD).
+- 
+  
+**Next**  
+- Reprint tube and refit with shroud
+
+## 07-25-2025 (Fri)
+
+**Done**  
+- Reprinted second tube and fit properly with shroud. Began print of front and back fan housing plates. Repainted shroud with black paint to cover sanding marks. Unscrewed previous tube from lid and attatched new one. 
+
+
+**Learned**  
+- Sanding causes markings on plastic. 
+
+  
+**Next**  
+- Fit fan into plates and press fit into shroud.
+
+## 07-27-2025 (Fri)
+
+**Done**  
+- Retrieved prints of plates and mounted to fan using m5 machine screws and wing nuts. Press fitted very well into shroud!
+- ![plates_side](https://github.com/vyas0028/Yashodev_Vyas_Noise-Canceled-Fan/blob/main/Media/fan+plates_side.jpg?raw=true)
+- ![plates_back](https://github.com/vyas0028/Yashodev_Vyas_Noise-Canceled-Fan/blob/main/Media/Fan+plates_back.jpg?raw=true)
+
+**Learned**  
+- Sanding causes markings on plastic. Polishing/repainting may be nesesscary.  
+
+  
+**Next**  
+- Begin Bench Testing!
+
+
+## 07-29-2025 (Fri)
+
+**Done**  
+- Began bench testing. Assembled teensy 4.1 on breadboard, 12V barrel jack adapter, microphone module, amplifier module, and speaker. Cut and stripped wires at the barrel jack. Split neutral wire and soldered in a Y config. The first wire from the wall plug goes to a common junction connected to the breadboard GND rails. The second wire from the split goes to the fan plug negative terminal.
+- Soldered blue and red jumper wires to the 12V supply hot and neutral wires to power the fan.
+- Soldered mic module to jumper wires and plugged into breadboard (SEE WIRING DIAGRAM)
+- Attatched speaker to amp module using jumper wires.
+- ![GND junction](https://github.com/vyas0028/Yashodev_Vyas_Noise-Canceled-Fan/blob/main/Media/Soldered_GND_Junction.jpg?raw=true)
+- ![fan power wires](https://github.com/vyas0028/Yashodev_Vyas_Noise-Canceled-Fan/blob/main/Media/Soldered_fan_power_wires.jpg?raw=true)
+- ![soldered mic](https://github.com/vyas0028/Yashodev_Vyas_Noise-Canceled-Fan/blob/main/Media/Soldered_mic.jpg?raw=true)
+- ![soldered amp](https://github.com/vyas0028/Yashodev_Vyas_Noise-Canceled-Fan/blob/main/Media/Soldered_Amp.jpg?raw=true)
+
+**Learned**  
+- Sanding causes markings on plastic. Polishing/repainting may be nesesscary.  
+
+  
+**Next**  
+- Begin Bench Testing!
+
+
+
+
+
+
+
+
+
+
+
+
 ```

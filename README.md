@@ -5,22 +5,15 @@ A desktop fan that actively reduces its own noise using real-time noise cancella
 ---
 
 ## What It Does
-This fan detects its own blade-generated noise using a microphone, identifies the dominant frequency using an FFT (Fast Fourier Transform), and cancels it in real time by outputting an inverted sound through a speaker.
-
----
-
-## Skills Demonstrated 
-
----
-
-## Repository Overview
-
-
-## General Project Timeline 
+This fan detects its own blade-generated noise using a microphone, identifies the dominant frequency using an FFT (Fast Fourier Transform), and cancels it in real time by outputting an inverted sound through a speaker
    
+## How it Works  
+The microcrophone and Teensy microcontroller communicate using I2S. The noise data that is sent to the microcontroller is processed using the PJRC Audio library. 
 
 
-## CAD Models
+
+
+## CAD Model Links
 | [Part](link)                                                      |   Description  
 | [Box](CAD/Project_CAD/box.SLDPRT)                                 |   Box that forms the base. Houses electronics.   
 | [Lid](CAD/Project_CAD/lid.SLDPRT)                                 |   Lid that fits flush with top of base. Mounts to support tube with screws.  

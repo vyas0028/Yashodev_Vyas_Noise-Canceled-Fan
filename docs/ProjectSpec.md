@@ -3,6 +3,7 @@
 
 
 
+ 
 ## Project Overview
 A desktop fan assembly that actively cancels its own noise by collecting noise signal using MEMS microphone, conducting FFT on a Teensy microcontroller, and then outputting an inverted signal through a speaker to cancel fan whine. 
 
@@ -18,7 +19,7 @@ A desktop fan assembly that actively cancels its own noise by collecting noise s
 
 ---
 
-## 3. Performance Targets
+## Performance Targets
 
 | Metric                    | Target Value     |
 |---------------------------|------------------|
@@ -28,7 +29,7 @@ A desktop fan assembly that actively cancels its own noise by collecting noise s
 
 ---
 
-## 4. Mechanical Spec
+## Mechanical Spec
 - **Fan**: 140 mm ARCTIC P14 PWM, enclosed in horizontal cylindrical shell
 - **Support**: Cylindrical post connecting fan shell to base
 - **Base**: 120 × 120 × 30 mm rectangular platform with hollow interior

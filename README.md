@@ -1,4 +1,4 @@
-# Noise Canceling Fan Repository Guide
+# Noise Canceling Fan ReadME
 
 A desktop fan that actively reduces its own noise using real-time noise cancellation. This project combines CAD, embedded programming, signal processing, and acoustic analysis to showcase the engineering process from start to finish and create a standalone product! 
 

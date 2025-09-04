@@ -1,14 +1,18 @@
-# Noise Canceling Fan ReadME
+# Noise Canceling Fan Readme
 
 A desktop fan that actively reduces its own noise using real-time noise cancellation. This project combines CAD, embedded programming, signal processing, and acoustic analysis to showcase the engineering process from start to finish and create a standalone product! 
 
+![](Media/Box_Final.png)
 
 
-
+---
 
 ## What It Does
+
 This fan detects its own blade-generated noise using a microphone, identifies the dominant frequency using an FFT (Fast Fourier Transform), and cancels it in real time by outputting inverted sound through a speaker
-   
+
+---
+
 ## How it Works  
 1. The microcrophone and Teensy microcontroller communicate using I2S
 2. The noise data that is sent to the microcontroller from the mic is processed by an FFT (Fast Fourier Transform) in the PJRC Audio library.
@@ -16,12 +20,13 @@ This fan detects its own blade-generated noise using a microphone, identifies th
 4. Once the specific frequency is identified, the tone is phase shifted 180 deg and played out of the speaker using AudioConnection 
 5. A simple hill-climb/coordinate descent algorithm reads the FFT again and nudges the phase + amplitude of the anti-tone up and down until a minimum is achieved.  
 
+---
+
 ## Status/Next Steps
 - Bench testing is now complete. All components - speaker, mic, Teensy, and fan connect to each other and are functonal on the breadboard and mechanically fit into the shroud and base. 
 - Next steps will be rewiring everything into the 3D printed housing, taking decibel measurements, refining the algorithm (implement active FxLMS, possibly replace FFT with Goertzel), and creating a PCB to replace the breadboard.
 
-## Fan + Housing (Shroud)
-
+---
 
 
 ## CAD Model Links

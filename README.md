@@ -1,6 +1,8 @@
-# Noise Canceling Fan Readme
+# Noise Canceling Fan Project (IN PROGRESS)
 
-A desktop fan that actively reduces its own noise using real-time noise cancellation. This project combines CAD, embedded programming, signal processing, and acoustic analysis to showcase the engineering process from start to finish and create a standalone product! 
+A desktop fan that cancels its own noise using active noise cancellation, built utilizing CAD, embedded programming, signal processing, and acoustic analysis to create a standalone product! 
+
+
 
 <p float="left">
   <img src="Media/Final_CAD.jpg" width="270" />

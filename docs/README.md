@@ -2,8 +2,10 @@
 
 A desktop fan that actively reduces its own noise using real-time noise cancellation. This project combines CAD, embedded programming, signal processing, and acoustic analysis to showcase the engineering process from start to finish and create a standalone product! 
 
-![](Media/Box_Final.png)
-
+<p float="left">
+  <img src="Media/Final_CAD.jpg" width="270" />
+  <img src="Media/FinalX_sect1.jpg" width="270" style="margin-left:15px;" />
+</p>
 
 ---
 

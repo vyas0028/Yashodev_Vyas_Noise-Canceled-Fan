@@ -7,6 +7,7 @@ A desktop fan that cancels its own noise using active noise cancellation, built 
 <p float="left">
   <img src="Media/Final_CAD.jpg" width="270" />
   <img src="Media/FinalX_sect1.jpg" width="270" style="margin-left:15px;" />
+  <img src="Media/Prototype.jpg" width="270" style="margin-left:15px;" />
 </p>
 
 ---

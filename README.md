@@ -28,7 +28,7 @@ This fan detects its own blade-generated noise using a microphone, identifies th
 
 ## Testing 
 - Ran modal FEA to ensure that the housing doesn't resonate at the fan's blade pass frequency of 172 Hz.
-    - Found main vibrational modes at XXX and XXX Hz. Well out of range for resonance.
+    - Found main vibrational mode at 350 Hz. Well out of range for resonance.
 - Conducted bench testing
     - Wired Teensy, speaker + amp, microphone, and fan together. Consolidated grounds and ensured that microphone can record audio that can be played out of the speaker. Also ensured that fan can be properly controlled via PWM. 
 ## Status/Next Steps

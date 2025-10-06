@@ -4,11 +4,11 @@ A desktop fan that cancels its own noise using active noise cancellation, built 
 
 
 
-<p float="left">
-  <img src="Media/Final_CAD.jpg" width="270" />
-  <img src="Media/FinalX_sect1.jpg" width="270" style="margin-left:15px;" />
-  <img src="Media/Prototype.jpg" width="270" style="margin-left:15px;" />
-</p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
+  <img src="Media/Final_CAD.jpg" alt="Final CAD model of fan" style="width: 270px; height: auto;" />
+  <img src="Media/FinalX_sect1.jpg" alt="Cross-section of fan CAD model" style="width: 270px; height: auto;" />
+  <img src="Media/Prototype_Crop.jpg" alt="Photo of physical fan prototype" style="width: 161px; height: auto;" />
+</div>
 
 ---
 
